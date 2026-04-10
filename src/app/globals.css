@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* ===== Custom Cursor (scoped) ===== */
+/* Only hide the native cursor inside explicitly scoped areas on desktop */
+@media (min-width: 1024px) {
+  .sensei-cursor-scope,
+  .sensei-cursor-scope * {
+    cursor: none !important;
+  }
+}
+
+/* Ensure our custom cursor never interferes with interactions */
+.sensei-cursor,
+.sensei-cursor-dot {
+  pointer-events: none;
+}

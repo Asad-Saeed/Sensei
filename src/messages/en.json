@@ -1,0 +1,352 @@
+{
+  "HomePage": {
+    "title": "Welcome to Sensei",
+    "description": "A modern Next.js application with internationalization",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "support": "Support"
+  },
+  "Common": {
+    "language": "Language",
+    "english": "English",
+    "chinese": "Japanese",
+    "login": "Log In",
+    "tryItFree": "Try it Free",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "toggleNavigation": "Toggle navigation",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "X (Twitter)"
+  },
+  "Hero": {
+    "subtitle": "AI-Empowered Workflows",
+    "title": "Custom AI Solutions through Collaborative Intelligence.",
+    "description": "Sensei combines today's most advanced AI tools integrated with your internal data, proprietary resources, and human insights—empowering your organization to boost efficiency, accelerate innovation, and drive lasting growth.",
+    "exploreFeatures": "Explore Features",
+    "requestDemo": "Request a Demo"
+  },
+  "HeadingSection": {
+    "title": "An Integrated, Secure, Collaborative Platform for Every Operation"
+  },
+  "TeamworkSection": {
+    "eyebrow": "Teamwork",
+    "title": "Collaboration at the Core",
+    "description": "Work alongside colleagues, industry experts, and cutting edge AI in shared forum, exponentially scaling productivity.",
+    "cta": "Explore Our Collaborative Functions",
+    "chat": {
+      "statusLabel": "Case Workspace",
+      "statusPill": "Analyzing…",
+      "inputPlaceholder": "Type your message here…",
+      "sendButton": "Send",
+      "messages": {
+        "0": {
+          "name": "Dominic Fike",
+          "role": "Client Lead",
+          "badge": "Commercial Lease Review",
+          "text": "Please analyze the termination clause in this commercial lease agreement."
+        },
+        "1": {
+          "name": "Sensei",
+          "role": "AI Assistant",
+          "badge": "Sensei invited Sarah to the chat",
+          "text": "Certainly.\nThe termination clause allows either party to end the agreement with 90 days’ written notice. However, if the tenant breaches any material condition, the landlord may terminate with 30 days’ notice after written warning. Early termination requires a prorated rent settlement. This is in compliance with the client’s standard termination clause, though it requires formal approval from the Legal Department. @Sarah, can you review and confirm the clause is acceptable?"
+        },
+        "2": {
+          "name": "Sara (Legal)",
+          "role": "Legal Counsel",
+          "badge": "Sara joined",
+          "text": "This is approved."
+        },
+        "3": {
+          "name": "Sensei",
+          "role": "AI Assistant",
+          "badge": "Sensei seeks Compliance review",
+          "text": "From a compliance standpoint, termination with less than 90 days’ notice may conflict with regulatory or reporting obligations tied to leased facilities. @Compliance, can you review and confirm whether this clause aligns with our requirements?"
+        },
+        "4": {
+          "name": "Michael (Compliance)",
+          "role": "Compliance",
+          "badge": "Michael joined 2 minutes ago",
+          "text": "We’re fine with the clause, but any termination under 90 days requires immediate notice to Compliance so we can meet regulatory reporting obligations."
+        }
+      }
+    }
+  },
+  "CustomAIModelsSection": {
+    "eyebrow": "Custom AI Models",
+    "title": "Custom Built for Your Operations",
+    "description": "Sensei fuses proprietary knowledge, tailored prompt chains, and human insight to become a living organizational intelligence — powering smarter decisions and immediate execution.",
+    "cta": "Customize Your Model",
+    "inputs": {
+      "0": "Internal Teams",
+      "1": "External Advisors",
+      "2": "AI Engines",
+      "3": "Prompt Chains",
+      "4": "Client Data",
+      "5": "Advisor Data",
+      "6": "Sensei Data"
+    },
+    "outputs": {
+      "0": "Contract Summaries",
+      "1": "Risk Reports",
+      "2": "Compliance Checks",
+      "3": "Legal Drafts",
+      "4": "Business Advice"
+    }
+  },
+  "DataSecuritySection": {
+    "eyebrow": "Data Security",
+    "title": "Leverage the Power of AI with Your Data and Our Experts in a Secure Environment.",
+    "description": "Securely integrate your teams, advisors, proprietary documents, and internal systems—all while retaining complete privacy and control.",
+    "cta": "Learn About Data Integration",
+    "files": {
+      "pdf": {
+        "name": "25MB",
+        "type": "PDF"
+      },
+      "csv": {
+        "name": "54MB",
+        "type": "CSV"
+      },
+      "docx": {
+        "name": "32MB",
+        "type": "DOCX"
+      }
+    },
+    "successBadge": "Files Uploaded Successfully",
+    "chat": {
+      "userMessage": "I just uploaded a folder of vendor contracts. Can you show me a table of agreements with potential compliance issues with the new regulation?",
+      "assistantMessage": {
+        "line1": "Documents received. Parsing metadata and content...",
+        "line2": "Here's a table of contracts implicated in the latest regulatory amendment:"
+      }
+    },
+    "table": {
+      "headers": {
+        "contractName": "Contract Name",
+        "vendor": "Vendor",
+        "riskArea": "Risk Area",
+        "issueSummary": "Issue Summary",
+        "score": "Score"
+      },
+      "rows": [
+        {
+          "contractName": "Master Services Agreement",
+          "vendor": "Acme Logistics",
+          "riskArea": "Data Retention",
+          "issueSummary": "Exceeds retention limits",
+          "score": "62%"
+        },
+        {
+          "contractName": "Procurement Agreement",
+          "vendor": "VendorMax",
+          "riskArea": "Subcontractors",
+          "issueSummary": "Missing subvendor disclosure",
+          "score": "47%"
+        },
+        {
+          "contractName": "Vendor NDA",
+          "vendor": "TechSecure",
+          "riskArea": "Confidentiality",
+          "issueSummary": "Lacks updated scope",
+          "score": "52%"
+        },
+        {
+          "contractName": "Logistics Addendum",
+          "vendor": "ShipGo",
+          "riskArea": "Termination",
+          "issueSummary": "No early exit clause",
+          "score": "40%"
+        }
+      ]
+    }
+  },
+  "ExpertsNetworkSection": {
+    "eyebrow": "Experts Network",
+    "title": "Access Top Talent Instantly",
+    "description": "Engage industry experts, prompt architects, and data specialists to harness the full potential of AI in your organization.",
+    "cta": "Meet the Experts",
+    "tags": {
+      "legalAIConsultant": "Legal AI Consultant",
+      "dataCurator": "Data Curator",
+      "regulatoryOpsExpert": "Regulatory Ops Expert",
+      "documentArchitect": "Document Architect",
+      "contextEngineeringAdvisor": "Context Engineering Advisor",
+      "riskAuditor": "Risk Auditor",
+      "legalOpsConsultant": "LegalOps Consultant",
+      "tuningExpert": "Tuning Expert",
+      "workflowStrategist": "Workflow Strategist",
+      "llmAdvisor": "LLM Advisor",
+      "governanceSpecialist": "Governance Specialist",
+      "promptArchitect": "Prompt Architect"
+    }
+  },
+  "DiscoverSection": {
+    "title": "Discover Sensei Now",
+    "description": "Explore SENSEI to help integrate custom designed AI solutions, access expert insights, and build customized data sets for your organization.",
+    "cta": "Explore Now"
+  },
+  "FAQSection": {
+    "title": "Frequently asked questions",
+    "subtitle": "Find answers to commonly asked questions about SENSEI",
+    "items": {
+      "0": {
+        "question": "How can I upload documents in the Vector Data Hub?",
+        "answer": "Every Sensei user has a secure personal vector database. You can upload files in bulk or directly during a conversation, and they are automatically vectorized—making their contents searchable and ready for AI-driven analysis. Supported file formats include PDF, Word, Excel, and text files."
+      },
+      "1": {
+        "question": "What are the benefits of using Sensei Databases?",
+        "answer": "The value of generative AI depends on the quality of the data it draws from. While most Large Language Models rely solely on their original training data, Sensei prioritizes datasets curated and validated by domain experts. Users can also see exactly which information Sensei relied upon to form its responses, ensuring greater trust and transparency."
+      },
+      "2": {
+        "question": "How can I participate in discussions on the platform?",
+        "answer": "You can invite colleagues and advisors directly into your Sensei conversations. Create new threads, set up working groups for specific projects, edit and download Sensei's outputs, or comment on ongoing discussions. The forum connects users, experts, and AI-generated insights in one place—driving collaboration, efficiency, and oversight."
+      },
+      "3": {
+        "question": "Can I save and retrieve messages in Sensei?",
+        "answer": "Yes. Sensei automatically saves your conversations and makes them accessible through the message history feature. You can also add memory layers to capture key exchanges and correspondence, ensuring Sensei learns from your interactions. This preserves institutional knowledge and maintains continuity across projects."
+      }
+    }
+  },
+  "Footer": {
+    "description": "Explore Sensei to unlock expert insights, access comprehensive databases, and engage in meaningful discussions.",
+    "quickLinks": "QUICK LINKS",
+    "company": "COMPANY",
+    "followUs": "FOLLOW US",
+    "copyright": "© Copyright Sensei. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "Contact": {
+    "eyebrow": "Contact us",
+    "heroTitle": "Talk to our team",
+    "heroSubtitle1": "Welcome to SENSEI – empowering your professional journey with an AI-driven platform tailored for experts and enthusiasts.",
+    "heroSubtitle2": "Looking to take your experience to the next level with SENSEI? Contact us using the form.",
+    "support": {
+      "title": "Need help or insights? Explore our support articles",
+      "body": "Our dedicated support team and active community are always ready to assist you on our social channels, available 24/7.",
+      "highlight": "Follow us"
+    },
+    "form": {
+      "title": "Please complete the form below",
+      "firstName": "First Name*",
+      "firstNamePlaceholder": "Enter your first name",
+      "lastName": "Last Name*",
+      "lastNamePlaceholder": "Enter your last name",
+      "email": "Email*",
+      "emailPlaceholder": "you@example.com",
+      "message": "How can we help you?*",
+      "messagePlaceholder": "Share a bit about what you’d like to discuss...",
+      "consentPrefix": "I have read and accept the",
+      "and": "and",
+      "submit": "Let’s Talk",
+      "submitting": "Sending...",
+      "success": "Thank you for reaching out. Our team will get back to you shortly.",
+      "validation": {
+        "firstNameRequired": "Please enter your first name.",
+        "lastNameRequired": "Please enter your last name.",
+        "emailRequired": "Please enter your email address.",
+        "emailInvalid": "Please enter a valid email address.",
+        "messageRequired": "Please tell us how we can help.",
+        "messageMin": "Your message should be at least 10 characters.",
+        "consentRequired": "Please accept the terms to continue."
+      }
+    },
+    "pageTitle": "Contact",
+    "ctaLabel": "Contact us"
+  },
+  "About": {
+    "aboutUs": "About Us",
+    "aboutUsDescription": "Sensei was created by professionals from diverse fields who recognized the potential of combining powerful AI with human collaboration and trusted data. More than just a platform, Sensei is a marketplace where specialists and curated data packages can be engaged alongside the industry's most advanced AI tools.",
+    "ourMission": "Our Mission",
+    "ourMissionDescription": "Our mission is to harness the full potential of AI by uniting advanced technology with human expertise, vetted data sources, and organizational knowledge. Sensei converts reservoirs of raw information into automated decisions, streamlines processes, and drives exponential gains in innovation and efficiency.",
+    "followUs": "Follow Us"
+  },
+  "Support": {
+    "header": {
+      "title": {
+        "prefix": "How can we",
+        "highlight": "help",
+        "suffix": "you?"
+      },
+      "description1": "Find quick answers about your account, billing, and technical issues.",
+      "description2": "No long articles—just simple explanations to get you started."
+    },
+    "categories": {
+      "learningResources": {
+        "title": "Learning resources",
+        "topics": {
+          "account": "Learning about your account",
+          "notifications": "Change my notification preferences",
+          "address": "I need to update my address"
+        }
+      },
+      "technicalIssues": {
+        "title": "Technical issues",
+        "topics": {
+          "test": "Test",
+          "ssdVsHdd": "Solid State Drives (SSD) vs. Hard Disk Drives (HDD): Speed Over Space?",
+          "softwareUpdates": "The Importance of Software Updates: Security and Performance"
+        }
+      },
+      "accountBilling": {
+        "title": "Account & billing",
+        "topics": {
+          "removeBank": "Remove Bank Account",
+          "notifications": "Change my notification preferences",
+          "address": "I need to update my address"
+        },
+        "cta": "Log in to Manage Account"
+      }
+    },
+    "detail": {
+      "title": "Support",
+      "breadcrumb": {
+        "post": "Post"
+      },
+      "categoryTag": "Learning Resources",
+      "sections": {
+        "learningAboutAccount": {
+          "title": "Learning about your account",
+          "paragraph1": "Your SENSEI account is your gateway to expert insights, personalized AI assistance, and collaborative discussions.",
+          "paragraph2": "If you're unsure how to manage your account settings, update your information, or access your data, this guide will walk you through the essentials."
+        },
+        "accessAccount": {
+          "title": "How do I access or update my account details?",
+          "paragraph1": "You can view and update your account information directly from your profile dashboard.",
+          "stepsLabel": "Follow these steps:",
+          "step1": "Log in to your SENSEI account.",
+          "step2": "Click your profile icon in the top-right corner.",
+          "step3": "Select 'Account Settings.'",
+          "paragraph2": "From here, you can update personal details such as your name, email, organization, and notification preferences."
+        },
+        "cantAccess": {
+          "title": "What if I can't access my account?",
+          "paragraph1": "If you're having trouble signing in:",
+          "troubleshoot1": "Make sure your login credentials are correct.",
+          "troubleshoot2": "Try resetting your password using the 'Forgot Password?' link on the login page.",
+          "troubleshoot3": "Check your email (including spam/junk folders) for password reset instructions.",
+          "troubleshoot4": "If you still can't log in, contact our support team for assistance.",
+          "supportInfoLabel": "What information should I provide when contacting support?",
+          "supportInfoIntro": "To help us assist you faster, please include:",
+          "info1": "The email address linked to your SENSEI account",
+          "info2": "A brief description of the issue",
+          "info3": "Screenshots (if available)",
+          "info4": "Any troubleshooting steps you have already tried",
+          "paragraph2": "Once we receive your inquiry, our support team will guide you through the next steps."
+        },
+        "summary": {
+          "title": "In summary:",
+          "paragraph1": "Keeping your account accurate and up to date ensures you get the most from your SENSEI experience.",
+          "paragraph2": "If you need support, our team and community are always here to help."
+        }
+      }
+    }
+  }
+}
